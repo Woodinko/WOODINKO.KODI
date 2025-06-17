@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="WOODINKO.KODI" name="WOODINKO_KODI" version="0.2.0" provider-name="Woodinko">
+<addons><addon id="WOODINKO.KODI" name="WOODINKO.KODI" version="0.2.0" provider-name="Woodinko">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Woodinko/WOODINKO_KODI/main/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Woodinko/WOODINKO_KODI/main/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Woodinko/WOODINKO_KODI/main/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Woodinko/WOODINKO.KODI/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Woodinko/WOODINKO.KODI/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Woodinko/WOODINKO.KODI/main/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>WOODINKO_KODI</summary>
+        <summary>WOODINKO.KODI</summary>
         <description>Woodinkou pokus o repozitár na KODI</description>
         <disclaimer />
         <platform>all</platform>
